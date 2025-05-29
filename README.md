@@ -87,12 +87,12 @@
 
 </br>
 JIRA:</br>
-![image](https://github.com/user-attachments/assets/43ae022b-bd0f-4177-bc59-c17bc09d2e7d)
-![image](https://github.com/user-attachments/assets/7897d2a0-5b15-4b41-8710-2478d06b7319)
-![image](https://github.com/user-attachments/assets/156b0d56-3c99-4317-9f4b-47e8de5b7ca9)
-![image](https://github.com/user-attachments/assets/8d0f906d-9b6e-4d72-b9e4-e74771565421)
-![image](https://github.com/user-attachments/assets/6e2fda69-cabe-48b7-9592-3b2c2cd729f3)
-![image](https://github.com/user-attachments/assets/e3477fd9-09c1-4495-a4d1-2c53add51fbe)
-![image](https://github.com/user-attachments/assets/1f1150bf-9eb1-4e68-be59-16de1a154210)
-![image](https://github.com/user-attachments/assets/1397ba4e-d494-43e8-99cb-2765ff6fad86)
-![image](https://github.com/user-attachments/assets/76899c2e-248a-47d8-a6e2-62673f572f70)
+  <img src="https://github.com/user-attachments/assets/43ae022b-bd0f-4177-bc59-c17bc09d2e7d">
+  <img src="https://github.com/user-attachments/assets/7897d2a0-5b15-4b41-8710-2478d06b7319">
+  <img src="https://github.com/user-attachments/assets/156b0d56-3c99-4317-9f4b-47e8de5b7ca9">
+  <img src="https://github.com/user-attachments/assets/8d0f906d-9b6e-4d72-b9e4-e74771565421">
+  <img src="https://github.com/user-attachments/assets/6e2fda69-cabe-48b7-9592-3b2c2cd729f3">
+  <img src="https://github.com/user-attachments/assets/e3477fd9-09c1-4495-a4d1-2c53add51fbe">
+  <img src="https://github.com/user-attachments/assets/1f1150bf-9eb1-4e68-be59-16de1a154210">
+  <img src="https://github.com/user-attachments/assets/1397ba4e-d494-43e8-99cb-2765ff6fad86">
+  <img src="https://github.com/user-attachments/assets/76899c2e-248a-47d8-a6e2-62673f572f70">
